@@ -3,4 +3,4 @@
 
 <a href="https://codeclimate.com/github/AndreyYurpalov/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/a5ac3b8d8ad530717fb7/maintainability" /></a>
 
-<[ascinema brain-even] (https://asciinema.org/a/69SsRlWHVwnJNbNxEbWXiUgfQ>
+<[ascinema brain-even] (https://asciinema.org/a/69SsRlWHVwnJNbNxEbWXiUgfQ
