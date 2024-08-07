@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
 
-from brain_games.even import welcome_user
+from games.even import start
 
 
 def main():
-    welcome_user()
+    start
 
 
 if __name__ == '__main__':
