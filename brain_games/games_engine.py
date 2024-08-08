@@ -2,7 +2,6 @@ import prompt
 
 
 def welcome_user(dic_res, game_cycle):
-    global your_answer
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}!")
